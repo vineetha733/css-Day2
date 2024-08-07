@@ -1,0 +1,34 @@
+.box{
+    border:1px solid ;
+    height:700px;
+    width:450px;
+    margin:0 auto;
+    border-top-width: 20px;
+    border-top-color: aqua ;
+    border-bottom-width:20px;
+    border-bottom-color: aqua;
+    background-color: midnightblue;
+
+}
+#img {
+    object-fit: cover;
+    border-radius: 50%;
+   margin-top: -40px;
+    position: absolute;
+    transform: translatex(-50%);
+
+    
+    
+    
+
+}
+.box2{
+    border:1px solid white;
+    height:490px;
+    width:350px;
+    margin:0px auto;
+    background-color: white;
+    top:40px;
+    padding-top: 70px;
+    
+}
